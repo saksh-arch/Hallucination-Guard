@@ -1,0 +1,8 @@
+uqlm
+streamlit
+langchain-google-genai
+pandas
+plotly
+asyncio
+python-dotenv
+nest_asyncio
